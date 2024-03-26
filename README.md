@@ -1,12 +1,12 @@
-# Warehouse Management System (WMS) with Python CLI
+# Warehouse Management System (WMS) for Applied Programming with Python Course
 
 ## Overview
 
 This project focuses on developing a Warehouse Management System (WMS) using Python and Command Line Interface (CLI) technology. The WMS allows users to manage inventory efficiently, including viewing current stock, adding new products, adjusting quantities, and deleting items from inventory.
 
-## Why WMS?
+## Purpose
 
-Warehouse Management Systems are crucial for businesses to streamline their warehouse operations, from goods receipt to order fulfillment. By developing a WMS with Python, we aim to provide a flexible solution tailored to specific business needs, leveraging Python's rapid development capabilities and robust libraries.
+This application is developed as part of the coursework for the Applied Programming with Python course at Ionian University. It serves as a learning tool for students to understand software development concepts and Python programming principles.
 
 ## Key Features
 
@@ -14,7 +14,6 @@ Warehouse Management Systems are crucial for businesses to streamline their ware
 - **Flexible Inventory Management**: Add, update, delete, and view products seamlessly.
 - **Hardware Product Management**: Specifically designed for managing hardware products like computer components, electronics, and networking equipment.
 - **Statistical Insights**: Track inventory statistics for informed decision-making.
-- **Scalability and Customization**: Easily extend and customize the system to suit unique business requirements.
 
 ## Methodology
 
@@ -29,6 +28,7 @@ The implementation methodology follows a structured approach:
 - **User Documentation**: Comprehensive guide with usage instructions for both CLI and frontend.
 - **Final Report**: Detailed report outlining project activities and application evolution.
 - **GitHub Repository**: Accessible repository with installation and usage instructions.
+
 
 ## Get Started
 
